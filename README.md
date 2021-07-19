@@ -4,6 +4,6 @@
 
 ## Table of Contents
 1. Class One
-2. [Class two](/class two.md)
+2. [Class two](/classtwo.md)
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
