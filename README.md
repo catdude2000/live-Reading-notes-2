@@ -1,4 +1,9 @@
 # live-Reading-notes-2
-2nd live repo
+
+
+
+## Table of Contents
+1. Class One
+2. Class two
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
