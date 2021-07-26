@@ -10,5 +10,6 @@
 5. [Class five](https://catdude2000.github.io/reading-notes-5/)
 6. [Class six](https://catdude2000.github.io/notes6/)
 7. [Class seven](https://catdude2000.github.io/notes7/)
+8. [Class eight](https://catdude2000.github.io/notes8/)
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
